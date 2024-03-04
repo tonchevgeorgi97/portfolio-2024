@@ -1,0 +1,2034 @@
+/* screen - mu46staking-all-breakpoints */
+
+.mu46staking-all-breakpoints {
+  align-items: flex-start;
+  background-color: var(--jaguar);
+  display: flex;
+  flex-direction: column;
+  height: 9132px;
+  width: 375px;
+}
+
+.mu46staking-all-breakpoints .header-2 {
+  align-items: flex-start;
+  background-color: var(--jaguar);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  gap: 10px;
+  padding: 8px 14px;
+  position: relative;
+  width: 375px;
+}
+
+.mu46staking-all-breakpoints .elements-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 18px;
+  position: relative;
+  width: 100%;
+}
+
+.mu46staking-all-breakpoints .icon-2 {
+  align-items: center;
+  border-radius: 1000px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  padding: 10px;
+  position: relative;
+}
+
+.mu46staking-all-breakpoints .icon-3 {
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
+.mu46staking-all-breakpoints .heading {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  padding: 40px 24px;
+  position: relative;
+  width: 375px;
+}
+
+.mu46staking-all-breakpoints .skrill-crypto-staking {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 34px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.mu46staking-all-breakpoints .frame-1000004058 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+  width: 100%;
+}
+
+.mu46staking-all-breakpoints .details-1 {
+  width: 112px;
+}
+
+.mu46staking-all-breakpoints .saa-s-platform-2 {
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: right;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.mu46staking-all-breakpoints .details-2 {
+  flex: 1;
+  flex-grow: 1;
+}
+
+.mu46staking-all-breakpoints .text-block-11 {
+  align-items: flex-start;
+  gap: 12px;
+  padding: 20px 24px;
+  position: relative;
+}
+
+.mu46staking-all-breakpoints .u-ser-personas {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  height: 1358px;
+  width: 375px;
+}
+
+.mu46staking-all-breakpoints .card-user-persona-1 {
+  margin-top: 20px;
+  max-height: 631px;
+}
+
+.mu46staking-all-breakpoints .ux_team-1 {
+  background-color: var(--sk--primary--1000);
+  border-radius: 90px;
+  height: 100px;
+  position: relative;
+  width: 100px;
+}
+
+.mu46staking-all-breakpoints .ux_new-1 {
+  height: 100px;
+  left: 14185px;
+  position: absolute;
+  top: -467px;
+  width: 100px;
+}
+
+.mu46staking-all-breakpoints .img-1 {
+  height: 100px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 100px;
+}
+
+.mu46staking-all-breakpoints .x1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 12px;
+  position: relative;
+  width: 100%;
+}
+
+.mu46staking-all-breakpoints .name-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.mu46staking-all-breakpoints .jose-startup-founder-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.mu46staking-all-breakpoints .x3000000-usd-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.mu46staking-all-breakpoints .bio-4 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  width: 100%;
+}
+
+.mu46staking-all-breakpoints .bio-5 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+}
+
+.mu46staking-all-breakpoints .startup-founder-well-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.mu46staking-all-breakpoints .needs-4 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: 100%;
+}
+
+.mu46staking-all-breakpoints .needs-5 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: -21.00px;
+  margin-top: -1.00px;
+  position: relative;
+  width: 300px;
+}
+
+.mu46staking-all-breakpoints .high-risk-tolerance-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.mu46staking-all-breakpoints .pains-4 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  width: 100%;
+}
+
+.mu46staking-all-breakpoints .pains-5 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+}
+
+.mu46staking-all-breakpoints .market-volatility-is-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.mu46staking-all-breakpoints .card-user-persona-2 {
+  max-height: 647px;
+}
+
+.mu46staking-all-breakpoints .overlap-group-1 {
+  align-items: flex-start;
+  background-image: url(../img/img@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  min-width: 100px;
+}
+
+.mu46staking-all-breakpoints .mask-group-1 {
+  height: 100px;
+  width: 100px;
+}
+
+.mu46staking-all-breakpoints .x1-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 12px;
+  position: relative;
+  width: 100%;
+}
+
+.mu46staking-all-breakpoints .gathii-engineer-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.mu46staking-all-breakpoints .x200000-usd-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.mu46staking-all-breakpoints .bio-6 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  width: 100%;
+}
+
+.mu46staking-all-breakpoints .bio-7 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+}
+
+.mu46staking-all-breakpoints .engineer-from-nigeri-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.mu46staking-all-breakpoints .needs-6 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: 100%;
+}
+
+.mu46staking-all-breakpoints .needs-7 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.mu46staking-all-breakpoints .prefers-low-risk-ven-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.mu46staking-all-breakpoints .pains-6 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  width: 100%;
+}
+
+.mu46staking-all-breakpoints .pains-7 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+}
+
+.mu46staking-all-breakpoints .market-volatility-no-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.mu46staking-all-breakpoints .overlap-group1 {
+  height: 1066px;
+  position: relative;
+  width: 375px;
+}
+
+.mu46staking-all-breakpoints .frame-1000004079 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  left: 0;
+  padding: 20px 0px;
+  position: absolute;
+  top: 0;
+  width: 375px;
+}
+
+.mu46staking-all-breakpoints .picture {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 306.3px;
+  padding: 0px 24px;
+  position: relative;
+  width: 375px;
+}
+
+.mu46staking-all-breakpoints .comp-analysis-2 {
+  align-self: stretch;
+  flex: 1;
+  flex-grow: 1;
+  object-fit: cover;
+  position: relative;
+  width: 100%;
+}
+
+.mu46staking-all-breakpoints .text-block-12 {
+  align-items: flex-start;
+  flex: 0 0 auto;
+  gap: 12px;
+  padding: 0px 24px;
+  position: relative;
+}
+
+.mu46staking-all-breakpoints .body-text-8 {
+  margin-top: -1.00px;
+}
+
+.mu46staking-all-breakpoints .text-block-13 {
+  align-items: flex-start;
+  gap: 12px;
+  left: 0;
+  padding: 20px 24px;
+  position: absolute;
+  top: 674px;
+}
+
+.mu46staking-all-breakpoints .picture-frame {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 20px 24px;
+  position: relative;
+  width: 375px;
+}
+
+.mu46staking-all-breakpoints .image-493-1 {
+  height: 160.69px;
+  position: relative;
+  width: 327px;
+}
+
+.mu46staking-all-breakpoints .text-block-14 {
+  align-items: center;
+  gap: 12px;
+  padding: 20px 24px;
+  position: relative;
+}
+
+.mu46staking-all-breakpoints .user-flow {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.mu46staking-all-breakpoints .screenshot-2024-02-28-at-236-1-1 {
+  height: 393px;
+  position: relative;
+  width: 327px;
+}
+
+.mu46staking-all-breakpoints .screenshot-2024-02-28-at-236-2-1 {
+  height: 416px;
+  position: relative;
+  width: 239px;
+}
+
+.mu46staking-all-breakpoints .text-block-15 {
+  align-items: center;
+  gap: 16px;
+  padding: 20px 24px;
+  position: relative;
+}
+
+.mu46staking-all-breakpoints .wireframes {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.mu46staking-all-breakpoints .screenshot-2024-03-01-at-147-1-1 {
+  height: 226.25px;
+  position: relative;
+  width: 327px;
+}
+
+.mu46staking-all-breakpoints .screenshot-2024-03-01-at-147-2-1 {
+  height: 213.55px;
+  position: relative;
+  width: 327px;
+}
+
+.mu46staking-all-breakpoints .balance-and-list {
+  align-items: flex-start;
+  display: flex;
+  justify-content: space-between;
+  padding: 24px 16px;
+  position: relative;
+  width: 375px;
+}
+
+.mu46staking-all-breakpoints .staking-screen-1 {
+  height: 315.66px;
+  object-fit: cover;
+  position: relative;
+  width: 160px;
+}
+
+.mu46staking-all-breakpoints .m-contact-section-title {
+  align-items: flex-start;
+  background-color: var(--jaguar);
+  display: flex;
+  flex-direction: column;
+  padding: 48px 24px 24px;
+  position: relative;
+  width: 375px;
+}
+
+.mu46staking-all-breakpoints .content-3 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 96px;
+  justify-content: center;
+  padding: 0px 128px;
+  position: relative;
+  width: 100%;
+}
+
+.mu46staking-all-breakpoints .m-footer {
+  align-items: center;
+  background-color: var(--jaguar);
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  justify-content: center;
+  padding: 8px 24px 24px;
+  position: relative;
+  width: 375px;
+}
+
+.mu46staking-all-breakpoints .website-design-and-c-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-align: center;
+}
+
+.mu46staking-all-breakpoints .bio {
+  align-self: stretch;
+  position: relative;
+}
+
+.mu46staking-all-breakpoints .body-text {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+}
+
+.mu46staking-all-breakpoints .bullets {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 4px;
+  position: relative;
+}
+
+.mu46staking-all-breakpoints .card-user-persona {
+  align-items: center;
+  background-color: var(--apptextdarkprimary);
+  border-radius: 24px;
+  box-shadow: 0px 12px 20px #87216633;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 10px;
+  margin-left: 24px;
+  margin-right: 24px;
+  padding: 24px;
+  position: relative;
+  width: 327px;
+}
+
+.mu46staking-all-breakpoints .cont {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+  width: 100%;
+}
+
+.mu46staking-all-breakpoints .details {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+}
+
+.mu46staking-all-breakpoints .pains {
+  align-self: stretch;
+  position: relative;
+}
+
+.mu46staking-all-breakpoints .subtitle {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.mu46staking-all-breakpoints .text-block {
+  display: flex;
+  flex-direction: column;
+  width: 375px;
+}
+/* screen - staking-desktop */
+
+.staking-desktop {
+  align-items: flex-start;
+  background-color: var(--jaguar);
+  display: flex;
+  flex-direction: column;
+  height: 8061px;
+  overflow: hidden;
+  width: 1380px;
+}
+
+.staking-desktop .header {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  padding: 0px 0px 48px;
+  position: relative;
+  width: 1380px;
+}
+
+.staking-desktop .header-1 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  margin-right: -60.00px;
+  padding: 32px 80px 16px;
+  position: relative;
+  width: 1440px;
+}
+
+.staking-desktop .elements {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 832px;
+  position: relative;
+  width: 100%;
+}
+
+.staking-desktop .icon {
+  align-items: center;
+  border-radius: 1000px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: flex-end;
+  padding: 10px;
+  position: relative;
+}
+
+.staking-desktop .icon-1 {
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
+.staking-desktop .body {
+  align-items: flex-start;
+  display: flex;
+  gap: 40px;
+  padding: 0px 80px;
+  position: relative;
+  width: 1380px;
+}
+
+.staking-desktop .left-collumn {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+  width: 378px;
+}
+
+.staking-desktop .title {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 56px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.staking-desktop .divider {
+  align-self: stretch;
+  background-image: url(../img/divider---light---yes@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  position: relative;
+  width: 100%;
+}
+
+.staking-desktop .descriptipn {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 16px;
+  position: relative;
+  width: 100%;
+}
+
+.staking-desktop .details {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: 112px;
+}
+
+.staking-desktop .tittle {
+  align-self: stretch;
+  letter-spacing: 0.24px;
+  line-height: 16px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.staking-desktop .bullets {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 4px;
+  position: relative;
+  width: 100%;
+}
+
+.staking-desktop .saa-s-platform {
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.staking-desktop .fin-tech-web3 {
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.staking-desktop .tittle-1 {
+  letter-spacing: 0.24px;
+  line-height: 16px;
+  margin-right: -4.00px;
+  margin-top: -1.00px;
+  position: relative;
+  width: 116px;
+}
+
+.staking-desktop .saa-s-platform-1 {
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.staking-desktop .right-collumn {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 40px;
+  position: relative;
+}
+
+.staking-desktop .text-block {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 12px;
+  position: relative;
+  width: 100%;
+}
+
+.staking-desktop .introduction {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.staking-desktop .following-the-succes {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: relative;
+}
+
+.staking-desktop .subtitle {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 34px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.staking-desktop .body-text {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: relative;
+}
+
+.staking-desktop .right-collumn-item {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  position: relative;
+  width: 100%;
+}
+
+.staking-desktop .card-user-persona {
+  align-items: center;
+  background-color: var(--apptextdarkprimary);
+  border-radius: 24px;
+  box-shadow: 0px 12px 20px #87216633;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  padding: 24px;
+  position: relative;
+}
+
+.staking-desktop .cont {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+  width: 100%;
+}
+
+.staking-desktop .ux_team {
+  background-color: var(--sk--primary--1000);
+  border-radius: 90px;
+  height: 100px;
+  position: relative;
+  width: 100px;
+}
+
+.staking-desktop .ux_new {
+  height: 100px;
+  left: 16519px;
+  position: absolute;
+  top: 291px;
+  width: 100px;
+}
+
+.staking-desktop .img {
+  height: 100px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 100px;
+}
+
+.staking-desktop .content {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 12px;
+  position: relative;
+  width: 324px;
+}
+
+.staking-desktop .name {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.staking-desktop .jose-startup-founder {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.staking-desktop .x3000000-usd {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.staking-desktop .bio {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: 100%;
+}
+
+.staking-desktop .bio-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+}
+
+.staking-desktop .startup-founder-well {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.staking-desktop .needs {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: 324px;
+}
+
+.staking-desktop .needs-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.staking-desktop .high-risk-tolerance {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.staking-desktop .pains {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: 324px;
+}
+
+.staking-desktop .pains-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.staking-desktop .cont-1 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+  width: 324px;
+}
+
+.staking-desktop .overlap-group {
+  align-items: flex-start;
+  background-image: url(../img/img@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  min-width: 100px;
+}
+
+.staking-desktop .mask-group {
+  height: 100px;
+  width: 100px;
+}
+
+.staking-desktop .content-1 {
+  flex-direction: column;
+  gap: 12px;
+}
+
+.staking-desktop .gathii-engineer {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.staking-desktop .address-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.staking-desktop .median-salary {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: 100%;
+}
+
+.staking-desktop .median-wallet-size-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.staking-desktop .x200000-usd {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.staking-desktop .bio-2 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  width: 100%;
+}
+
+.staking-desktop .bio-3 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+}
+
+.staking-desktop .engineer-from-nigeri {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.staking-desktop .needs-2 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: 324px;
+}
+
+.staking-desktop .needs-3 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.staking-desktop .prefers-low-risk-ven {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.staking-desktop .pains-2 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: 324px;
+}
+
+.staking-desktop .pains-3 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.staking-desktop .comp-analysis {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 32px;
+  position: relative;
+  width: 100%;
+}
+
+.staking-desktop .comp-analysis-1 {
+  height: 370.94px;
+  object-fit: cover;
+  position: relative;
+  width: 396px;
+}
+
+.staking-desktop .strive-to-provide-a {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.staking-desktop .frame-1000004072 {
+  height: 384px;
+}
+
+.staking-desktop .image-493 {
+  height: 384px;
+  margin-top: 0.1px;
+  width: 782px;
+}
+
+.staking-desktop .requirements {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 34px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.staking-desktop .analysing-the-discov {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: relative;
+}
+
+.staking-desktop .designing-the-solution {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 34px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.staking-desktop .after-gaining-valuab {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: relative;
+}
+
+.staking-desktop .frame-1000004080 {
+  align-items: flex-start;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.staking-desktop .sub-title {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.staking-desktop .frame-1000004071 {
+  gap: 132px;
+  height: 416px;
+}
+
+.staking-desktop .screenshot-2024-02-28-at-236-1 {
+  height: 416px;
+  width: 357px;
+}
+
+.staking-desktop .screenshot-2024-02-28-at-236-2 {
+  height: 416px;
+  width: 239px;
+}
+
+.staking-desktop .frame-1000004075 {
+  align-items: flex-start;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.staking-desktop .sub-title-1 {
+  align-self: stretch;
+  display: flex;
+  height: 32px;
+  position: relative;
+  width: 100%;
+}
+
+.staking-desktop .sub-title-2 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 32px;
+  width: 802px;
+}
+
+.staking-desktop .frame-1000004074 {
+  gap: 68px;
+  height: 256px;
+}
+
+.staking-desktop .screenshot-2024-03-01-at-147-1 {
+  height: 256px;
+  width: 370px;
+}
+
+.staking-desktop .screenshot-2024-03-01-at-147-2 {
+  height: 256px;
+  width: 392px;
+}
+
+.staking-desktop .final-design {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 34px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.staking-desktop .after-aligning-all-t {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: relative;
+}
+
+.staking-desktop .staking-screen {
+  height: 739.82px;
+  object-fit: cover;
+  position: relative;
+  width: 375px;
+}
+
+.staking-desktop .footer {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 1380px;
+}
+
+.staking-desktop .contact-section-title {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--jaguar);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 96px 128px 48px;
+  position: relative;
+  width: 100%;
+}
+
+.staking-desktop .content-2 {
+  gap: 96px;
+  justify-content: center;
+  padding: 0px 128px;
+}
+
+.staking-desktop .projects {
+  letter-spacing: 0;
+  line-height: 64px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.staking-desktop .bio-4 {
+  align-self: stretch;
+  position: relative;
+}
+
+.staking-desktop .body-text-7 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: relative;
+}
+
+.staking-desktop .content-3 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.staking-desktop .frame {
+  align-self: stretch;
+  display: flex;
+  position: relative;
+  width: 100%;
+}
+
+.staking-desktop .market-volatility {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.staking-desktop .subtitle-7 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 34px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.staking-desktop .text-block-11 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 12px;
+  position: relative;
+  width: 100%;
+}
+/* screen - tu46staking */
+
+.tu46staking {
+  align-items: flex-start;
+  background-color: var(--jaguar);
+  display: flex;
+  flex-direction: column;
+  height: 7295px;
+  width: 780px;
+}
+
+.tu46staking .header-3 {
+  align-items: flex-start;
+  background-color: var(--jaguar);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  gap: 10px;
+  padding: 8px 40px;
+  position: relative;
+  width: 780px;
+}
+
+.tu46staking .elements-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 18px;
+  position: relative;
+  width: 100%;
+}
+
+.tu46staking .icon-4 {
+  align-items: center;
+  border-radius: 1000px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  padding: 10px;
+  position: relative;
+}
+
+.tu46staking .heading-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  padding: 40px 48px;
+  position: relative;
+  width: 780px;
+}
+
+.tu46staking .skrill-crypto-staking-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 34px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.tu46staking .frame-1000004058-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+  width: 100%;
+}
+
+.tu46staking .details-3 {
+  width: 112px;
+}
+
+.tu46staking .details-4 {
+  flex: 1;
+  flex-grow: 1;
+}
+
+.tu46staking .text-block-16 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding: 20px 48px;
+  position: relative;
+  width: 780px;
+}
+
+.tu46staking .frame-1000004083 {
+  gap: 48px;
+  justify-content: center;
+  padding: 20px 0px;
+  width: 780px;
+}
+
+.tu46staking .card-user-persona-1-1 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--apptextdarkprimary);
+  border-radius: 24px;
+  box-shadow: 0px 12px 20px #87216633;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 24px;
+  position: relative;
+  width: 300px;
+}
+
+.tu46staking .ux_team-2 {
+  background-color: var(--sk--primary--1000);
+  border-radius: 90px;
+  height: 100px;
+  position: relative;
+  width: 100px;
+}
+
+.tu46staking .ux_new-2 {
+  height: 100px;
+  left: 15273px;
+  position: absolute;
+  top: 325px;
+  width: 100px;
+}
+
+.tu46staking .img-2 {
+  height: 100px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 100px;
+}
+
+.tu46staking .x1-2 {
+  align-items: flex-start;
+}
+
+.tu46staking .name-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.tu46staking .jose-startup-founder-2 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.tu46staking .x3000000-usd-2 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.tu46staking .bio-8 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  width: 100%;
+}
+
+.tu46staking .bio-9 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+}
+
+.tu46staking .startup-founder-well-2 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.tu46staking .needs-8 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: 100%;
+}
+
+.tu46staking .needs-9 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: -48.00px;
+  margin-top: -1.00px;
+  position: relative;
+  width: 300px;
+}
+
+.tu46staking .high-risk-tolerance-2 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.tu46staking .pains-8 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  width: 100%;
+}
+
+.tu46staking .pains-9 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+}
+
+.tu46staking .market-volatility-is-2 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.tu46staking .card-user-persona-2-1 {
+  align-items: center;
+  background-color: var(--apptextdarkprimary);
+  border-radius: 24px;
+  box-shadow: 0px 12px 20px #87216633;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 24px;
+  position: relative;
+  width: 300px;
+}
+
+.tu46staking .overlap-group-2 {
+  align-items: flex-start;
+  background-image: url(../img/img@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  min-width: 100px;
+}
+
+.tu46staking .mask-group-2 {
+  height: 100px;
+  width: 100px;
+}
+
+.tu46staking .x1-3 {
+  align-items: center;
+}
+
+.tu46staking .gathii-engineer-2 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.tu46staking .x200000-usd-2 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.tu46staking .bio-10 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  width: 100%;
+}
+
+.tu46staking .bio-11 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+}
+
+.tu46staking .engineer-from-nigeri-2 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.tu46staking .needs-10 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: 100%;
+}
+
+.tu46staking .needs-11 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.tu46staking .prefers-low-risk-ven-2 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.tu46staking .pains-10 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  width: 100%;
+}
+
+.tu46staking .pains-11 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+}
+
+.tu46staking .market-volatility-no-2 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.tu46staking .frame-1000004079-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 16px;
+  justify-content: center;
+  padding: 20px 48px;
+  position: relative;
+  width: 780px;
+}
+
+.tu46staking .picture-1 {
+  background-image: url(../img/comp-analysis.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 306.3px;
+  position: relative;
+  width: 327px;
+}
+
+.tu46staking .text-block-17 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 12px;
+  padding: 0px 24px;
+  position: relative;
+}
+
+.tu46staking .body-text-10 {
+  margin-top: -1.00px;
+}
+
+.tu46staking .picture-frame-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 20px 24px;
+  position: relative;
+  width: 780px;
+}
+
+.tu46staking .image-493-2 {
+  height: 335px;
+  position: relative;
+  width: 683px;
+}
+
+.tu46staking .text-block-18 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding: 20px 48px;
+  position: relative;
+  width: 780px;
+}
+
+.tu46staking .user-flow-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.tu46staking .frame-100000408 {
+  align-self: stretch;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.tu46staking .screenshot-2024-02-28-at-236-1-2 {
+  height: 416px;
+  position: relative;
+  width: 346.16px;
+}
+
+.tu46staking .screenshot-2024-02-28-at-236-2-2 {
+  height: 416px;
+  position: relative;
+  width: 239px;
+}
+
+.tu46staking .text-block-container {
+  height: 486px;
+  position: relative;
+  width: 780px;
+}
+
+.tu46staking .text-block-19 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  left: 0;
+  padding: 20px 48px;
+  position: absolute;
+  top: 0;
+  width: 780px;
+}
+
+.tu46staking .wireframes-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.tu46staking .screenshot-2024-03-01-at-147-1-2 {
+  height: 226.25px;
+  position: relative;
+  width: 327px;
+}
+
+.tu46staking .screenshot-2024-03-01-at-147-2-2 {
+  height: 226px;
+  position: relative;
+  width: 346px;
+}
+
+.tu46staking .text-block-20 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  left: 0;
+  padding: 20px 48px;
+  position: absolute;
+  top: 310px;
+  width: 780px;
+}
+
+.tu46staking .overlap-group2 {
+  height: 2269px;
+  position: relative;
+  width: 780px;
+}
+
+.tu46staking .balance-and-list-1 {
+  top: 0;
+}
+
+.tu46staking .staking-screen-2 {
+  height: 631.31px;
+  object-fit: cover;
+  position: relative;
+  width: 320px;
+}
+
+.tu46staking .balance-and-list-2 {
+  top: 711px;
+}
+
+.tu46staking .balance-and-list-3 {
+  top: 1422px;
+}
+
+.tu46staking .m-contact-section-title-1 {
+  align-items: flex-start;
+  background-color: var(--jaguar);
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  padding: 48px 24px 24px;
+  position: absolute;
+  top: 2133px;
+  width: 780px;
+}
+
+.tu46staking .content-4 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 96px;
+  justify-content: center;
+  padding: 0px 128px;
+  position: relative;
+  width: 100%;
+}
+
+.tu46staking .m-footer-1 {
+  align-items: center;
+  background-color: var(--jaguar);
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  justify-content: center;
+  padding: 8px 24px 24px;
+  position: relative;
+  width: 780px;
+}
+
+.tu46staking .balance-and-list {
+  align-items: flex-start;
+  display: flex;
+  justify-content: space-between;
+  left: 0;
+  padding: 40px 48px;
+  position: absolute;
+  width: 780px;
+}
+
+.tu46staking .bio {
+  align-self: stretch;
+  position: relative;
+}
+
+.tu46staking .body-text {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+}
+
+.tu46staking .bullets {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 4px;
+  position: relative;
+}
+
+.tu46staking .cont {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+  width: 100%;
+}
+
+.tu46staking .details {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+}
+
+.tu46staking .frame {
+  align-items: flex-start;
+  display: flex;
+  position: relative;
+}
+
+.tu46staking .pains {
+  align-self: stretch;
+  position: relative;
+}
+
+.tu46staking .subtitle {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.tu46staking .x1 {
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 12px;
+  position: relative;
+  width: 100%;
+}
+@media screen and (max-width: 779px) {
+  .screen.staking-desktop { 
+    display: none;
+   }
+  .screen.tu46staking { 
+    display: none;
+   }
+}
+@media screen and (min-width: 780px) and (max-width: 1379px) {
+  .screen.staking-desktop { 
+    display: none;
+   }
+  .screen.mu46staking-all-breakpoints { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1380px) {
+  .screen.mu46staking-all-breakpoints { 
+    display: none;
+   }
+  .screen.tu46staking { 
+    display: none;
+   }
+}

@@ -1,0 +1,850 @@
+/* screen - mu46po-all-breakpoints */
+
+.mu46po-all-breakpoints {
+  align-items: flex-start;
+  background-color: var(--jaguar);
+  display: flex;
+  flex-direction: column;
+  height: 3853px;
+  width: 375px;
+}
+
+.mu46po-all-breakpoints .header-2 {
+  align-items: flex-start;
+  background-color: var(--jaguar);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  gap: 10px;
+  padding: 8px 14px;
+  position: relative;
+  width: 375px;
+}
+
+.mu46po-all-breakpoints .elements-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 18px;
+  position: relative;
+  width: 100%;
+}
+
+.mu46po-all-breakpoints .icon-1 {
+  align-items: center;
+  border-radius: 1000px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  padding: 10px;
+  position: relative;
+}
+
+.mu46po-all-breakpoints .icon-2 {
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
+.mu46po-all-breakpoints .heading-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  padding: 40px 24px;
+  position: relative;
+  width: 375px;
+}
+
+.mu46po-all-breakpoints .purchase-order-system {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 34px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.mu46po-all-breakpoints .details-3 {
+  align-self: stretch;
+  flex: 0 0 auto;
+  width: 100%;
+}
+
+.mu46po-all-breakpoints .details-2 {
+  flex-direction: column;
+  width: 112px;
+}
+
+.mu46po-all-breakpoints .details-4 {
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+}
+
+.mu46po-all-breakpoints .saa-s-platform-2 {
+  margin-right: -3.00px;
+}
+
+.mu46po-all-breakpoints .nda-button-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+  width: 100%;
+}
+
+.mu46po-all-breakpoints .the-information-pro-2 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.mu46po-all-breakpoints .reach-out-to-me-1 {
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent;
+  background: linear-gradient(180deg, rgb(164, 120, 232) 0%, rgb(81, 108, 247) 100%);
+  background-clip: text;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-align: center;
+  text-fill-color: transparent;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.mu46po-all-breakpoints .text-block-1 {
+  position: relative;
+}
+
+.mu46po-all-breakpoints .subtitle-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.mu46po-all-breakpoints .body-text-5 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+}
+
+.mu46po-all-breakpoints .text-block-2 {
+  margin-top: 16px;
+  position: relative;
+}
+
+.mu46po-all-breakpoints .overlap-group1 {
+  height: 907px;
+}
+
+.mu46po-all-breakpoints .frame-1000004081 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  left: 0;
+  padding: 20px 24px;
+  position: absolute;
+  top: 0;
+  width: 375px;
+}
+
+.mu46po-all-breakpoints .design-sprint-process-fonts-vecto-2 {
+  height: 139.44px;
+  position: relative;
+  width: 327px;
+}
+
+.mu46po-all-breakpoints .text-block-3 {
+  left: 0;
+  position: absolute;
+  top: 179px;
+}
+
+.mu46po-all-breakpoints .overlap-group {
+  height: 356px;
+}
+
+.mu46po-all-breakpoints .m-contact-section-title {
+  align-items: flex-start;
+  background-color: var(--jaguar);
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  padding: 48px 24px 24px;
+  position: absolute;
+  top: 220px;
+  width: 375px;
+}
+
+.mu46po-all-breakpoints .content-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 96px;
+  justify-content: center;
+  padding: 0px 128px;
+  position: relative;
+  width: 100%;
+}
+
+.mu46po-all-breakpoints .mac-book-air-13 {
+  background-image: url(../img/po-desktop-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 220px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 375px;
+}
+
+.mu46po-all-breakpoints .m-footer {
+  align-items: center;
+  background-color: var(--jaguar);
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  justify-content: center;
+  padding: 8px 24px 24px;
+  position: relative;
+  width: 375px;
+}
+
+.mu46po-all-breakpoints .website-design-and-c-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-align: center;
+}
+
+.mu46po-all-breakpoints .bullets {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 4px;
+  position: relative;
+}
+
+.mu46po-all-breakpoints .details {
+  align-items: flex-start;
+  display: flex;
+  gap: 8px;
+  position: relative;
+}
+
+.mu46po-all-breakpoints .saa-s-platform {
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: right;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.mu46po-all-breakpoints .text-block {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding: 20px 24px;
+  width: 375px;
+}
+/* screen - po-desktop */
+
+.po-desktop {
+  align-items: flex-start;
+  background-color: var(--jaguar);
+  display: flex;
+  flex-direction: column;
+  height: 3435px;
+  width: 1380px;
+}
+
+.po-desktop .header {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  padding: 0px 0px 48px;
+  position: relative;
+  width: 1380px;
+}
+
+.po-desktop .header-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  padding: 32px 80px 16px;
+  position: relative;
+  width: 100%;
+}
+
+.po-desktop .elements {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 832px;
+  position: relative;
+  width: 100%;
+}
+
+.po-desktop .baclk-button-icon {
+  align-items: center;
+  border-radius: 1000px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: flex-end;
+  padding: 10px;
+  position: relative;
+}
+
+.po-desktop .icon {
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
+.po-desktop .content {
+  align-items: flex-start;
+  display: flex;
+  gap: 40px;
+  padding: 0px 80px;
+  position: relative;
+  width: 1380px;
+}
+
+.po-desktop .heading {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+  width: 378px;
+}
+
+.po-desktop .title {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 56px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.po-desktop .divider {
+  align-self: stretch;
+  background-image: url(../img/divider---light---yes@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  position: relative;
+  width: 100%;
+}
+
+.po-desktop .frame-1000004061 {
+  align-self: stretch;
+  flex: 0 0 auto;
+  gap: 48px;
+  width: 100%;
+}
+
+.po-desktop .details-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 16px;
+  position: relative;
+  width: 100%;
+}
+
+.po-desktop .details {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: 112px;
+}
+
+.po-desktop .tittle {
+  letter-spacing: 0.24px;
+  line-height: 16px;
+  margin-right: -4.00px;
+  margin-top: -1.00px;
+  position: relative;
+  width: 116px;
+}
+
+.po-desktop .bullets {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 4px;
+  position: relative;
+  width: 100%;
+}
+
+.po-desktop .saa-s-platform {
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: right;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.po-desktop .tittle-1 {
+  align-self: stretch;
+  letter-spacing: 0.24px;
+  line-height: 16px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.po-desktop .nda-button {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+  width: 100%;
+}
+
+.po-desktop .the-information-pro {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.po-desktop .reach-out-to-me {
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent;
+  background: linear-gradient(180deg, rgb(164, 120, 232) 0%, rgb(81, 108, 247) 100%);
+  background-clip: text;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-align: center;
+  text-fill-color: transparent;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.po-desktop .body {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 40px;
+  position: relative;
+}
+
+.po-desktop .text-block {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 12px;
+  position: relative;
+  width: 100%;
+}
+
+.po-desktop .subtitle {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 34px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.po-desktop .body-text {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: relative;
+}
+
+.po-desktop .frame-1000004082 {
+  align-self: stretch;
+  flex: 0 0 auto;
+  width: 100%;
+}
+
+.po-desktop .design-sprint-process-fonts-vecto-1 {
+  align-self: stretch;
+  height: 370px;
+  position: relative;
+  width: 100%;
+}
+
+.po-desktop .po-desktop-1 {
+  height: 470.59px;
+  object-fit: cover;
+  position: relative;
+  width: 802px;
+}
+
+.po-desktop .the-information-pro-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: relative;
+}
+
+.po-desktop .frame-1000004056 {
+  width: 1380px;
+}
+
+.po-desktop .contact-section-title {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--jaguar);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 96px 128px 48px;
+  position: relative;
+  width: 100%;
+}
+
+.po-desktop .content-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 96px;
+  justify-content: center;
+  padding: 0px 128px;
+  position: relative;
+  width: 100%;
+}
+
+.po-desktop .projects {
+  letter-spacing: 0;
+  line-height: 64px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.po-desktop .footer {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--jaguar);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  justify-content: center;
+  padding: 24px 424px 48px;
+  position: relative;
+  width: 100%;
+}
+
+.po-desktop .body-text-5 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: relative;
+}
+
+.po-desktop .frame {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+/* screen - tu46po */
+
+.tu46po {
+  align-items: flex-start;
+  background-color: var(--jaguar);
+  display: flex;
+  flex-direction: column;
+  height: 3362px;
+  width: 780px;
+}
+
+.tu46po .header-3 {
+  align-items: flex-start;
+  background-color: var(--jaguar);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  gap: 10px;
+  padding: 8px 40px;
+  position: relative;
+  width: 780px;
+}
+
+.tu46po .elements-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 18px;
+  position: relative;
+  width: 100%;
+}
+
+.tu46po .icon-3 {
+  align-items: center;
+  border-radius: 1000px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  padding: 10px;
+  position: relative;
+}
+
+.tu46po .icon-4 {
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
+.tu46po .heading-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  padding: 40px 48px;
+  position: relative;
+  width: 780px;
+}
+
+.tu46po .purchase-order-system-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 34px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.tu46po .details-6 {
+  align-self: stretch;
+  flex: 0 0 auto;
+  width: 100%;
+}
+
+.tu46po .details-5 {
+  flex-direction: column;
+  width: 112px;
+}
+
+.tu46po .details-7 {
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+}
+
+.tu46po .nda-button-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+  width: 100%;
+}
+
+.tu46po .the-information-pro-3 {
+  line-height: 16px;
+}
+
+.tu46po .reach-out-to-me-2 {
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent;
+  background: linear-gradient(180deg, rgb(164, 120, 232) 0%, rgb(81, 108, 247) 100%);
+  background-clip: text;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-align: center;
+  text-fill-color: transparent;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.tu46po .text-block-4 {
+  padding: 32px 48px;
+  position: relative;
+}
+
+.tu46po .body-text-6 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+}
+
+.tu46po .frame-1000004081-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 32px 48px;
+  position: relative;
+  width: 780px;
+}
+
+.tu46po .design-sprint-process-fonts-vecto-2-1 {
+  height: 306px;
+  position: relative;
+  width: 684px;
+}
+
+.tu46po .overlap-group-1 {
+  height: 554px;
+  position: relative;
+  width: 780px;
+}
+
+.tu46po .mac-book-air-13-1 {
+  background-image: url(../img/po-desktop-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 458px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 780px;
+}
+
+.tu46po .text-block-5 {
+  left: 0;
+  padding: 20px 48px;
+  position: absolute;
+  top: 458px;
+}
+
+.tu46po .the-information-pro-4 {
+  line-height: 28px;
+}
+
+.tu46po .contact-section-title-1 {
+  align-items: flex-start;
+  background-color: var(--jaguar);
+  display: flex;
+  flex-direction: column;
+  padding: 48px 48px 24px;
+  position: relative;
+  width: 780px;
+}
+
+.tu46po .content-3 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 96px;
+  justify-content: center;
+  padding: 0px 128px;
+  position: relative;
+  width: 100%;
+}
+
+.tu46po .m-footer-1 {
+  align-items: center;
+  background-color: var(--jaguar);
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  justify-content: center;
+  padding: 8px 48px 24px;
+  position: relative;
+  width: 780px;
+}
+
+.tu46po .bullets {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 4px;
+  position: relative;
+}
+
+.tu46po .details {
+  align-items: flex-start;
+  display: flex;
+  gap: 8px;
+  position: relative;
+}
+
+.tu46po .subtitle {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.tu46po .text-block {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  width: 780px;
+}
+
+.tu46po .the-information-pro {
+  align-self: stretch;
+  letter-spacing: 0;
+  margin-top: -1.00px;
+  position: relative;
+}
+@media screen and (max-width: 779px) {
+  .screen.po-desktop { 
+    display: none;
+   }
+  .screen.tu46po { 
+    display: none;
+   }
+}
+@media screen and (min-width: 780px) and (max-width: 1379px) {
+  .screen.po-desktop { 
+    display: none;
+   }
+  .screen.mu46po-all-breakpoints { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1380px) {
+  .screen.mu46po-all-breakpoints { 
+    display: none;
+   }
+  .screen.tu46po { 
+    display: none;
+   }
+}

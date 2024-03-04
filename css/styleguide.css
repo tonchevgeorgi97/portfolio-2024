@@ -1,0 +1,388 @@
+:root { 
+  --appiconsdarkactive: #121212;
+  --apptextdarkprimary: #ffffff;
+  --apptextdarksecondary: #d0d0d0;
+  --apptextdarktertiary: #a0a0a0;
+  --black: #000000;
+  --cadet-blue: #acb1c3;
+  --disco: #872166;
+  --jaguar: #030712;
+  --mercury: #e5e7eb;
+  --mischka: #d1d5db;
+  --mystic: #e2e6ee;
+  --sk--primary--1000: #4f2454;
+  --tuna: #2a3447;
+  --tuna-2: #2a3447b2;
+  --white--1000: #ffffff;
+ 
+  --font-size-l: 18px;
+  --font-size-m: 16px;
+  --font-size-s: 14px;
+  --font-size-xl: 20px;
+  --font-size-xs: 12px;
+  --font-size-xxl: 24px;
+  --font-size-xxxl: 32px;
+ 
+  --font-family-dm_sans: "DM Sans", Helvetica;
+  --font-family-inter: "Inter", Helvetica;
+  --font-family-inter-semibold: "Inter-SemiBold", Helvetica;
+  --font-family-outfit-medium: "Outfit-Medium", Helvetica;
+  --font-family-roboto-bolditalic: "Roboto-BoldItalic", Helvetica;
+  --font-family-roboto-italic: "Roboto-Italic", Helvetica;
+  --font-family-roboto-medium: "Roboto-Medium", Helvetica;
+}
+.body2normal---all {
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.body1normal---dektop {
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.dmsans-normal-celeste-16px {
+  color: var(--apptextdarksecondary);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.dmsans-bold-white-18px {
+  color: var(--apptextdarkprimary);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.dmsans-bold-white-24px {
+  color: var(--apptextdarkprimary);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.dmsans-medium-cadet-blue-14px {
+  color: var(--cadet-blue);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.dmsans-normal-celeste-18px {
+  color: var(--apptextdarksecondary);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.dmsans-normal-white-12px {
+  color: var(--apptextdarkprimary);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.dmsans-normal-star-dust-12px {
+  color: var(--apptextdarktertiary);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-normal-mischka-14px {
+  color: var(--mischka);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.roboto-italic-normal-tuna-16px {
+  color: var(--tuna-2);
+  font-family: var(--font-family-roboto-italic);
+  font-size: var(--font-size-m);
+  font-style: italic;
+  font-weight: 400;
+}
+
+.dmsans-medium-cadet-blue-16px {
+  color: var(--cadet-blue);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.dmsans-medium-white-16px {
+  color: var(--apptextdarkprimary);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.roboto-italic-normal-tuna-14px {
+  color: var(--tuna);
+  font-family: var(--font-family-roboto-italic);
+  font-size: var(--font-size-s);
+  font-style: italic;
+  font-weight: 400;
+}
+
+.inter-semi-bold-mystic-20px {
+  color: var(--mystic);
+  font-family: var(--font-family-inter-semibold);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.outfit-medium-white-16px {
+  font-family: var(--font-family-outfit-medium);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.dmsans-normal-cadet-blue-14px {
+  color: var(--cadet-blue);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.dmsans-medium-white-20px {
+  color: var(--apptextdarkprimary);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.dmsans-medium-white-28px {
+  color: var(--apptextdarkprimary);
+  font-family: var(--font-family-dm_sans);
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.inter-normal-mercury-14px {
+  color: var(--mercury);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-normal-cadet-blue-14px {
+  color: var(--cadet-blue);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.dmsans-medium-white-32px {
+  color: var(--apptextdarkprimary);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.roboto-bolditalic-bold-tuna-20px {
+  color: var(--tuna);
+  font-family: var(--font-family-roboto-bolditalic);
+  font-size: var(--font-size-xl);
+  font-style: italic;
+  font-weight: 700;
+}
+
+.roboto-italic-normal-disco-16px {
+  color: var(--disco);
+  font-family: var(--font-family-roboto-italic);
+  font-size: var(--font-size-m);
+  font-style: italic;
+  font-weight: 400;
+}
+
+.roboto-medium-tuna-18px {
+  color: var(--tuna);
+  font-family: var(--font-family-roboto-medium);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.dmsans-bold-licorice-14px {
+  color: var(--appiconsdarkactive);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.dmsans-bold-white-28px {
+  color: var(--apptextdarkprimary);
+  font-family: var(--font-family-dm_sans);
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.dmsans-normal-celeste-14px {
+  color: var(--apptextdarksecondary);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.dmsans-normal-white-14px {
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.dmsans-bold-white-32px {
+  color: var(--apptextdarkprimary);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.dmsans-normal-celeste-20px {
+  color: var(--apptextdarksecondary);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.dmsans-bold-white-48px {
+  color: var(--apptextdarkprimary);
+  font-family: var(--font-family-dm_sans);
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.dmsans-normal-celeste-24px {
+  color: var(--apptextdarksecondary);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.dmsans-medium-white-24px {
+  color: var(--apptextdarkprimary);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.dmsans-bold-white-20px {
+  color: var(--apptextdarkprimary);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.dmsans-normal-celeste-32px {
+  color: var(--apptextdarksecondary);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.dmsans-normal-celeste-18px-2 {
+  color: var(--apptextdarksecondary);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-l);
+  font-style: italic;
+  font-weight: 400;
+}
+
+.dmsans-normal-celeste-16px-2 {
+  color: var(--apptextdarksecondary);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-m);
+  font-style: italic;
+  font-weight: 400;
+}
+
+.dmsans-normal-star-dust-12px-2 {
+  color: var(--apptextdarktertiary);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-xs);
+  font-style: italic;
+  font-weight: 400;
+}
+
+.dmsans-normal-white-12px-2 {
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.dmsans-bold-celeste-16px {
+  color: var(--apptextdarksecondary);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.dmsans-medium-white-48px {
+  color: var(--apptextdarkprimary);
+  font-family: var(--font-family-dm_sans);
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.dmsans-normal-white-14px-2 {
+  color: var(--apptextdarkprimary);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.dmsans-normal-white-16px {
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.dmsans-bold-celeste-14px {
+  color: var(--apptextdarksecondary);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 700;
+}

@@ -1,0 +1,1055 @@
+/* screen - mu46-paysafe-gw */
+
+.mu46-paysafe-gw {
+  align-items: flex-start;
+  background-color: var(--jaguar);
+  display: flex;
+  flex-direction: column;
+  height: 4846px;
+  width: 376px;
+}
+
+.mu46-paysafe-gw .header-2 {
+  align-items: flex-start;
+  background-color: var(--jaguar);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  gap: 10px;
+  padding: 8px 14px;
+  position: relative;
+  width: 375px;
+}
+
+.mu46-paysafe-gw .elements-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 18px;
+  position: relative;
+  width: 100%;
+}
+
+.mu46-paysafe-gw .icon-2 {
+  align-items: center;
+  border-radius: 1000px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  padding: 10px;
+  position: relative;
+}
+
+.mu46-paysafe-gw .icon-3 {
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
+.mu46-paysafe-gw .heading-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  padding: 40px 24px;
+  position: relative;
+  width: 375px;
+}
+
+.mu46-paysafe-gw .paysafe-payment-gateway {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 34px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.mu46-paysafe-gw .details-2 {
+  align-self: stretch;
+  flex: 0 0 auto;
+  width: 100%;
+}
+
+.mu46-paysafe-gw .details-1 {
+  flex-direction: column;
+  width: 112px;
+}
+
+.mu46-paysafe-gw .saa-s-platform-1 {
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: right;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.mu46-paysafe-gw .details-3 {
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+}
+
+.mu46-paysafe-gw .text-block-5 {
+  position: relative;
+}
+
+.mu46-paysafe-gw .subtitle {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.mu46-paysafe-gw .body-text {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+}
+
+.mu46-paysafe-gw .overlap-group2 {
+  height: 597px;
+}
+
+.mu46-paysafe-gw .text-block-6 {
+  left: 0;
+  position: absolute;
+  top: 349px;
+}
+
+.mu46-paysafe-gw .balance-and-list-3 {
+  padding: 20px 8px;
+}
+
+.mu46-paysafe-gw .sk-balance {
+  height: 309.5px;
+  object-fit: cover;
+  position: relative;
+  width: 175px;
+}
+
+.mu46-paysafe-gw .frame-1000004086 {
+  margin-left: 1px;
+  padding: 8px 24px;
+  position: relative;
+}
+
+.mu46-paysafe-gw .sub-title-4 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.mu46-paysafe-gw .one-of-the-major-pro-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+}
+
+.mu46-paysafe-gw .frame-1000004088 {
+  padding: 10px 24px;
+  position: relative;
+}
+
+.mu46-paysafe-gw .having-a-new-payment-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+}
+
+.mu46-paysafe-gw .overlap-group1 {
+  height: 521px;
+}
+
+.mu46-paysafe-gw .frame-100000408 {
+  left: 0;
+  padding: 8px 24px;
+  position: absolute;
+  top: 345px;
+}
+
+.mu46-paysafe-gw .aiming-for-having-th-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+}
+
+.mu46-paysafe-gw .balance-and-list-2 {
+  padding: 8px 8px 28px;
+}
+
+.mu46-paysafe-gw .sk-crypto-1-1 {
+  height: 309.5px;
+  object-fit: cover;
+  position: relative;
+  width: 175px;
+}
+
+.mu46-paysafe-gw .sk-crypto-2-1 {
+  height: 309.5px;
+  object-fit: cover;
+  position: relative;
+  width: 175px;
+}
+
+.mu46-paysafe-gw .overlap-group {
+  height: 737px;
+}
+
+.mu46-paysafe-gw .the-us-i-gaming-gatew-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+}
+
+.mu46-paysafe-gw .sk-fastlane-1-1 {
+  height: 309.5px;
+  object-fit: cover;
+  position: relative;
+  width: 175px;
+}
+
+.mu46-paysafe-gw .sk-fastlane-2-1 {
+  height: 309.5px;
+  object-fit: cover;
+  position: relative;
+  width: 175px;
+}
+
+.mu46-paysafe-gw .overlap-group3 {
+  height: 481px;
+}
+
+.mu46-paysafe-gw .m-contact-section-title {
+  align-items: flex-start;
+  background-color: var(--jaguar);
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  padding: 48px 24px 24px;
+  position: absolute;
+  top: 345px;
+  width: 375px;
+}
+
+.mu46-paysafe-gw .content-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 96px;
+  justify-content: center;
+  padding: 0px 128px;
+  position: relative;
+  width: 100%;
+}
+
+.mu46-paysafe-gw .sk-ach-2-1 {
+  height: 309.5px;
+  object-fit: cover;
+  position: relative;
+  width: 175px;
+}
+
+.mu46-paysafe-gw .sk-ach-1-1 {
+  height: 309.5px;
+  object-fit: cover;
+  position: relative;
+  width: 175px;
+}
+
+.mu46-paysafe-gw .m-footer {
+  align-items: center;
+  background-color: var(--jaguar);
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  justify-content: center;
+  padding: 8px 24px 24px;
+  position: relative;
+  width: 375px;
+}
+
+.mu46-paysafe-gw .website-design-and-c-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-align: center;
+}
+
+.mu46-paysafe-gw .balance-and-list {
+  align-items: flex-start;
+  display: flex;
+  justify-content: space-between;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 375px;
+}
+
+.mu46-paysafe-gw .body-text-4 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+}
+
+.mu46-paysafe-gw .bullets {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 4px;
+  position: relative;
+}
+
+.mu46-paysafe-gw .details {
+  align-items: flex-start;
+  display: flex;
+  gap: 8px;
+  position: relative;
+}
+
+.mu46-paysafe-gw .frame {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  width: 375px;
+}
+
+.mu46-paysafe-gw .initiative-5-4 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 8px;
+  position: relative;
+}
+
+.mu46-paysafe-gw .text-block {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding: 20px 24px;
+  width: 375px;
+}
+/* screen - paysafe-gw-desktop-all-breakpoints */
+
+.paysafe-gw-desktop-all-breakpoints {
+  align-items: flex-start;
+  background-color: var(--jaguar);
+  display: flex;
+  flex-direction: column;
+  height: 5490px;
+  width: 1380px;
+}
+
+.paysafe-gw-desktop-all-breakpoints .header {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  padding: 0px 0px 48px;
+  position: relative;
+  width: 1380px;
+}
+
+.paysafe-gw-desktop-all-breakpoints .header-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  padding: 32px 80px 16px;
+  position: relative;
+  width: 100%;
+}
+
+.paysafe-gw-desktop-all-breakpoints .elements {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 832px;
+  position: relative;
+  width: 100%;
+}
+
+.paysafe-gw-desktop-all-breakpoints .icon {
+  align-items: center;
+  border-radius: 1000px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: flex-end;
+  padding: 10px;
+  position: relative;
+}
+
+.paysafe-gw-desktop-all-breakpoints .icon-1 {
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
+.paysafe-gw-desktop-all-breakpoints .content {
+  align-items: flex-start;
+  display: flex;
+  gap: 40px;
+  padding: 0px 80px;
+  position: relative;
+  width: 1380px;
+}
+
+.paysafe-gw-desktop-all-breakpoints .heading {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+  width: 378px;
+}
+
+.paysafe-gw-desktop-all-breakpoints .title {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 56px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.paysafe-gw-desktop-all-breakpoints .divider {
+  align-self: stretch;
+  background-image: url(../img/divider---light---yes@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  position: relative;
+  width: 100%;
+}
+
+.paysafe-gw-desktop-all-breakpoints .frame-1000004058 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 16px;
+  position: relative;
+  width: 100%;
+}
+
+.paysafe-gw-desktop-all-breakpoints .details {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: 112px;
+}
+
+.paysafe-gw-desktop-all-breakpoints .tittle {
+  letter-spacing: 0.24px;
+  line-height: 16px;
+  margin-right: -4.00px;
+  margin-top: -1.00px;
+  position: relative;
+  width: 116px;
+}
+
+.paysafe-gw-desktop-all-breakpoints .bullets {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 4px;
+  position: relative;
+  width: 100%;
+}
+
+.paysafe-gw-desktop-all-breakpoints .saa-s-platform {
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: right;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.paysafe-gw-desktop-all-breakpoints .tittle-1 {
+  align-self: stretch;
+  letter-spacing: 0.24px;
+  line-height: 16px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.paysafe-gw-desktop-all-breakpoints .body {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 40px;
+  position: relative;
+}
+
+.paysafe-gw-desktop-all-breakpoints .text-block {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 12px;
+  position: relative;
+  width: 100%;
+}
+
+.paysafe-gw-desktop-all-breakpoints .the-payment-gateway {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: relative;
+}
+
+.paysafe-gw-desktop-all-breakpoints .balance-and-list-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  position: relative;
+  width: 100%;
+}
+
+.paysafe-gw-desktop-all-breakpoints .text-block-1 {
+  gap: 12px;
+}
+
+.paysafe-gw-desktop-all-breakpoints .it-is-rather-difficu {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: relative;
+}
+
+.paysafe-gw-desktop-all-breakpoints .text-block-2 {
+  gap: 12px;
+}
+
+.paysafe-gw-desktop-all-breakpoints .same-as-for-the-desi {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: relative;
+}
+
+.paysafe-gw-desktop-all-breakpoints .text-block-3 {
+  gap: 12px;
+}
+
+.paysafe-gw-desktop-all-breakpoints .role-and-collaboration {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.paysafe-gw-desktop-all-breakpoints .i-was-the-only-desig {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: relative;
+}
+
+.paysafe-gw-desktop-all-breakpoints .text-block-4 {
+  gap: 24px;
+}
+
+.paysafe-gw-desktop-all-breakpoints .name {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.paysafe-gw-desktop-all-breakpoints .sub-title {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.paysafe-gw-desktop-all-breakpoints .one-of-the-major-pro {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: relative;
+}
+
+.paysafe-gw-desktop-all-breakpoints .having-a-new-payment {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: relative;
+}
+
+.paysafe-gw-desktop-all-breakpoints .balance-and-list {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  padding: 28px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.paysafe-gw-desktop-all-breakpoints .aiming-for-having-th {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: relative;
+}
+
+.paysafe-gw-desktop-all-breakpoints .the-us-i-gaming-gatew {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: relative;
+}
+
+.paysafe-gw-desktop-all-breakpoints .footer {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 1380px;
+}
+
+.paysafe-gw-desktop-all-breakpoints .contact-section-title {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--jaguar);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 96px 128px 48px;
+  position: relative;
+  width: 100%;
+}
+
+.paysafe-gw-desktop-all-breakpoints .content-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 96px;
+  justify-content: center;
+  padding: 0px 128px;
+  position: relative;
+  width: 100%;
+}
+
+.paysafe-gw-desktop-all-breakpoints .projects {
+  letter-spacing: 0;
+  line-height: 64px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.paysafe-gw-desktop-all-breakpoints .sk-ach {
+  height: 707.43px;
+  object-fit: cover;
+  position: relative;
+  width: 400px;
+}
+
+.paysafe-gw-desktop-all-breakpoints .sk-balance {
+  height: 707.43px;
+  object-fit: cover;
+  position: relative;
+  width: 400px;
+}
+
+.paysafe-gw-desktop-all-breakpoints .sk-crypto {
+  height: 707.43px;
+  object-fit: cover;
+  position: relative;
+  width: 400px;
+}
+
+.paysafe-gw-desktop-all-breakpoints .sk-fastlane {
+  height: 707.43px;
+  object-fit: cover;
+  position: relative;
+  width: 400px;
+}
+
+.paysafe-gw-desktop-all-breakpoints .sub-title-4 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.paysafe-gw-desktop-all-breakpoints .text-block-5 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+/* screen - tu46paysafe-gw */
+
+.tu46paysafe-gw {
+  align-items: flex-start;
+  background-color: var(--jaguar);
+  display: flex;
+  flex-direction: column;
+  height: 4630px;
+  width: 781px;
+}
+
+.tu46paysafe-gw .header-3 {
+  align-items: flex-start;
+  background-color: var(--jaguar);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  gap: 10px;
+  padding: 8px 40px;
+  position: relative;
+  width: 780px;
+}
+
+.tu46paysafe-gw .elements-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 18px;
+  position: relative;
+  width: 100%;
+}
+
+.tu46paysafe-gw .icon-4 {
+  align-items: center;
+  border-radius: 1000px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  padding: 10px;
+  position: relative;
+}
+
+.tu46paysafe-gw .heading-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  padding: 40px 48px;
+  position: relative;
+  width: 780px;
+}
+
+.tu46paysafe-gw .paysafe-payment-gateway-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 34px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.tu46paysafe-gw .details-5 {
+  align-self: stretch;
+  flex: 0 0 auto;
+  width: 100%;
+}
+
+.tu46paysafe-gw .details-4 {
+  flex-direction: column;
+  width: 112px;
+}
+
+.tu46paysafe-gw .saa-s-platform-2 {
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: right;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.tu46paysafe-gw .details-6 {
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+}
+
+.tu46paysafe-gw .text-block-7 {
+  padding: 20px 48px;
+}
+
+.tu46paysafe-gw .balance-and-list-5 {
+  padding: 20px 40px;
+}
+
+.tu46paysafe-gw .sk-balance-3 {
+  height: 530.57px;
+  object-fit: cover;
+  position: relative;
+  width: 300px;
+}
+
+.tu46paysafe-gw .text-block-8 {
+  padding: 32px 48px;
+}
+
+.tu46paysafe-gw .name-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.tu46paysafe-gw .frame-1000004086-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  margin-left: 1px;
+  padding: 8px 48px;
+  position: relative;
+  width: 780px;
+}
+
+.tu46paysafe-gw .sub-title-5 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.tu46paysafe-gw .one-of-the-major-pro-2 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+}
+
+.tu46paysafe-gw .frame-1000004088-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  padding: 10px 48px;
+  position: relative;
+  width: 780px;
+}
+
+.tu46paysafe-gw .having-a-new-payment-2 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+}
+
+.tu46paysafe-gw .balance-and-list-4 {
+  padding: 16px 40px 28px;
+}
+
+.tu46paysafe-gw .sk-crypto-1-2 {
+  height: 530.57px;
+  object-fit: cover;
+  position: relative;
+  width: 300px;
+}
+
+.tu46paysafe-gw .sk-crypto-2-2 {
+  height: 530.57px;
+  object-fit: cover;
+  position: relative;
+  width: 300px;
+}
+
+.tu46paysafe-gw .frame-100000408-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  padding: 8px 48px;
+  position: relative;
+  width: 780px;
+}
+
+.tu46paysafe-gw .aiming-for-having-th-2 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+}
+
+.tu46paysafe-gw .sk-fastlane-1-2 {
+  height: 530.57px;
+  object-fit: cover;
+  position: relative;
+  width: 300px;
+}
+
+.tu46paysafe-gw .sk-fastlane-2-2 {
+  height: 530.57px;
+  object-fit: cover;
+  position: relative;
+  width: 300px;
+}
+
+.tu46paysafe-gw .the-us-i-gaming-gatew-2 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+}
+
+.tu46paysafe-gw .sk-ach-2-2 {
+  height: 530.57px;
+  object-fit: cover;
+  position: relative;
+  width: 300px;
+}
+
+.tu46paysafe-gw .sk-ach-1-2 {
+  height: 530.57px;
+  object-fit: cover;
+  position: relative;
+  width: 300px;
+}
+
+.tu46paysafe-gw .m-contact-section-title-1 {
+  align-items: flex-start;
+  background-color: var(--jaguar);
+  display: flex;
+  flex-direction: column;
+  padding: 48px 24px 24px;
+  position: relative;
+  width: 780px;
+}
+
+.tu46paysafe-gw .content-3 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 96px;
+  justify-content: center;
+  padding: 0px 128px;
+  position: relative;
+  width: 100%;
+}
+
+.tu46paysafe-gw .m-footer-1 {
+  align-items: center;
+  background-color: var(--jaguar);
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  justify-content: center;
+  margin-top: 24px;
+  padding: 8px 24px 24px;
+  position: relative;
+  width: 780px;
+}
+
+.tu46paysafe-gw .balance-and-list {
+  align-items: flex-start;
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  width: 780px;
+}
+
+.tu46paysafe-gw .body-text {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+}
+
+.tu46paysafe-gw .bullets {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 4px;
+  position: relative;
+}
+
+.tu46paysafe-gw .details {
+  align-items: flex-start;
+  display: flex;
+  gap: 8px;
+  position: relative;
+}
+
+.tu46paysafe-gw .subtitle {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.tu46paysafe-gw .text-block {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  position: relative;
+  width: 780px;
+}
+@media screen and (max-width: 780px) {
+  .screen.paysafe-gw-desktop-all-breakpoints { 
+    display: none;
+   }
+  .screen.tu46paysafe-gw { 
+    display: none;
+   }
+}
+@media screen and (min-width: 781px) and (max-width: 1379px) {
+  .screen.paysafe-gw-desktop-all-breakpoints { 
+    display: none;
+   }
+  .screen.mu46-paysafe-gw { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1380px) {
+  .screen.mu46-paysafe-gw { 
+    display: none;
+   }
+  .screen.tu46paysafe-gw { 
+    display: none;
+   }
+}
