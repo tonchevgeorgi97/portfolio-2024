@@ -1,0 +1,47 @@
+.reset-style {
+  all: unset;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.smooth-scroll {
+  scroll-behavior: smooth;
+}
+
+.header-1 {
+  position: sticky !important;
+  top: 0;
+  z-index: 100;
+}
+
+.t-header {
+  position: sticky !important;
+  top: 0;
+  z-index: 100;
+}
+
+.no-wrap {
+  text-wrap: nowrap;
+}
+
+#t-skills-section {
+  padding-top: 48px;
+  width: 100%;
+}
+
+#t-experience-section {
+  padding-top: 48px;
+  width: 100%;
+}
+
+#t-project-section {
+  padding-top: 48px;
+  width: 100%;
+}
+
+.hero {
+  padding-top: 96px !important;
+  padding-bottom: 160px !important;
+}

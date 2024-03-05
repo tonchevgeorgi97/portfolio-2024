@@ -1,0 +1,104 @@
+/* screen - mu46menu-screen */
+
+.mu46menu-screen {
+  background-color: #03071273;
+  display: flex;
+  min-height: 812px;
+  min-width: 375px;
+  width: 100%;
+}
+
+.mu46menu-screen .menu {
+  align-items: flex-start;
+  background-color: #030712;
+  box-shadow: 0px 25px 25px #00000026;
+  display: flex;
+  flex-direction: column;
+  height: 812px;
+  position: relative;
+  width: 375px;
+}
+
+.mu46menu-screen .logo {
+  align-items: flex-start;
+  align-self: stretch;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #1f2937;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  padding: 24px;
+  position: relative;
+  width: 100%;
+}
+
+.mu46menu-screen .logo-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+}
+
+.mu46menu-screen .icon-button {
+  align-items: center;
+  border-radius: 8px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  padding: 6px;
+  position: relative;
+}
+
+.mu46menu-screen .icon {
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
+.mu46menu-screen .links {
+  align-items: flex-start;
+  align-self: stretch;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #1f2937;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  padding: 16px 24px;
+  position: relative;
+  width: 100%;
+}
+
+.mu46menu-screen .m-nav-menu-tab {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  padding: 8px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.mu46menu-screen .projects {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.mu46menu-screen .micons-menu-tab {
+  align-self: stretch;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.mu46menu-screen .logo-2 {
+  height: 48px;
+  position: relative;
+  width: 48px;
+}
