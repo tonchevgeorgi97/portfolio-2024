@@ -1,0 +1,4 @@
+.close {
+  transform: translate(-50%, -430px) !important;
+  transition: 0.5s ease-in-out;
+}

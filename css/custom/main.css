@@ -27,17 +27,17 @@
 }
 
 #t-skills-section {
-  padding-top: 48px;
+  padding-top: 72px !important;
   width: 100%;
 }
 
 #t-experience-section {
-  padding-top: 48px;
+  padding-top: 72px !important;
   width: 100%;
 }
 
-#t-project-section {
-  padding-top: 48px;
+#t-projects-section {
+  padding-top: 72px !important;
   width: 100%;
 }
 

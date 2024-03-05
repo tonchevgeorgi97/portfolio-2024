@@ -13,7 +13,8 @@
   <style></style>
   <link rel="stylesheet" type="text/css" href="css/styleguide.css" />
   <link rel="stylesheet" type="text/css" href="css/globals.css" />
-  <link rel="stylesheet" href="css/custom/main.css">
+  <link rel="stylesheet" type="text/css" href="css/custom/main.css">
+  <script type="application/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
 </head>
 
 <body style="margin: 0; background: #030712">
@@ -587,16 +588,19 @@
     </div>
   </div>
   <div class="container-center-horizontal">
-    <div class="mu46portfolio-gt screen">
-      <div class="overlap-group-1">
-        <div class="m-header">
-          <div class="container">
-            <div class="logo-3">
-              <img class="logo-placeholder-1" src="img/logo-placeholder-1@2x.png" alt="logo-placeholder" />
-            </div>
-            <div class="icon-button"><img class="icon" src="img/icon-32@2x.png" alt="Icon" /></div>
+    <div class="mu46portfolio-gt screen" style="overflow: unset;">
+      <div class="m-header">
+        <m-navbar src="/components/navbar.html"></m-navbar>
+        <div class="container">
+          <div class="logo-3">
+            <img class="logo-placeholder-1" src="img/logo-placeholder-1@2x.png" alt="logo-placeholder" />
+          </div>
+          <div class="icon-button" id="navbar-open-button"><img class="icon" src="img/icon-32@2x.png" alt="Icon" />
           </div>
         </div>
+      </div>
+      <div class="overlap-group-1">
+
         <div class="m-home-page">
           <div class="hello-im-georgi-tonchev-1 valign-text-middle dmsans-normal-celeste-24px bp1-animate-enter">
             <span><span class="dmsans-normal-celeste-24px">Hello, I’m </span><span class="span1">Georgi
@@ -617,7 +621,7 @@
         </div>
         <img class="icon-chevron-down" src="img/icon---chevron-down@2x.png" alt="icon / chevron-down" />
       </div>
-      <div class="m-projects-section-title">
+      <div class="m-projects-section-title" id="m-projects-section">
         <h1 class="title dmsans-bold-white-28px">Projects</h1>
         <p class="ive-worked-with-sta-3 dmsans-normal-celeste-16px">
           I&#39;ve been involved in various projects within the IT sector, with a primary focus on the Fintech domain.
@@ -726,7 +730,7 @@
           <div class="divider"></div>
         </div>
       </div>
-      <div class="x-section-title">
+      <div class="x-section-title" id="m-experience-section">
         <div class="projects-3 projects dmsans-bold-white-28px">Experience</div>
         <p class="ive-worked-with-sta-3 dmsans-normal-celeste-16px">
           I’ve worked with start-ups, big corporations and small boutique agencies. Here is my professional path.
@@ -856,7 +860,7 @@
             </div>
           </div>
         </div>
-        <div class="m-skills-section-title">
+        <div class="m-skills-section-title" id="m-skills-section">
           <div class="skills dmsans-bold-white-28px">Skills</div>
           <p class="ive-worked-with-sta-3 dmsans-normal-celeste-16px">
             Throughout my professional journey, I’ve nurtured a diverse skillset that continuously develops me as a
@@ -1115,13 +1119,19 @@
           <div class="buttons-4 buttons">
             <div class="nav-buttons-1">
               <article class="t-nav-menu-tab">
-                <div class="projects-5 projects dmsans-bold-celeste-14px">Projects</div>
+                <a href="#t-projects-section">
+                  <div class="projects-5 projects dmsans-bold-celeste-14px">Projects</div>
+                </a>
               </article>
               <article class="t-nav-menu-tab">
-                <div class="projects-5 projects dmsans-bold-celeste-14px">Experence</div>
+                <a href="#t-experience-section">
+                  <div class="projects-5 projects dmsans-bold-celeste-14px">Experience</div>
+                </a>
               </article>
               <article class="t-nav-menu-tab">
-                <div class="projects-5 projects dmsans-bold-celeste-14px">Skills</div>
+                <a href="#t-skills-section">
+                  <div class="projects-5 projects dmsans-bold-celeste-14px">Skills</div>
+                </a>
               </article>
             </div>
           </div>
@@ -1166,7 +1176,7 @@
       <div class="thome-page-footer">
         <img class="icon-chevron-down-1" src="img/icon---chevron-down-3@2x.png" alt="icon / chevron-down" />
       </div>
-      <div class="s-section-title-2">
+      <div class="s-section-title-2" id="t-projects-section">
         <div class="projects-6 projects dmsans-bold-white-28px">Projects</div>
         <p class="ive-worked-with-sta-5 ive-worked-with-sta dmsans-normal-celeste-18px">
           I&#39;ve been involved in various projects within the IT sector, with a primary focus on the Fintech domain.
@@ -1277,7 +1287,7 @@
           <div class="divider-2"></div>
         </div>
       </div>
-      <div class="x-section-title-1">
+      <div class="x-section-title-1" id="t-experience-section">
         <div class="projects-7 projects dmsans-bold-white-28px">Experience</div>
         <p class="ive-worked-with-sta-4 ive-worked-with-sta dmsans-normal-celeste-18px">
           I’ve worked for start-ups, big corporations and small boutique agencies. Here is my professional path.
@@ -1398,7 +1408,7 @@
           </div>
         </div>
       </div>
-      <div class="s-section-title-2">
+      <div class="s-section-title-2" id="t-skills-section">
         <div class="skills-1 dmsans-bold-white-28px">Skills</div>
         <p class="ive-worked-with-sta-4 ive-worked-with-sta dmsans-normal-celeste-18px">
           Throughout my professional journey, I’ve nurtured a diverse skillset that continuously develops me as a
@@ -1748,6 +1758,8 @@
       instShowOnScroll.init();
     },250);
   </script>
+  <script type="application/javascript" src="js/navbar-animation.js"></script>
+  <script type="application/javascript" src="js/navbar-toggle.js"></script>
 </body>
 
 </html>
