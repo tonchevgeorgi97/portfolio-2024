@@ -32,6 +32,11 @@ class Navbar extends HTMLElement {
       this.closeNavBar(shadowRoot);
       element.scrollIntoView({ behavior: "smooth", block: "start" });
     });
+    shadowRoot.getElementById("logo-container").addEventListener("click", () => {
+      const bodyEl = document.getElementsByTagName("body")[0];
+      this.closeNavBar(shadowRoot);
+      bodyEl.scrollIntoView({ behavior: "smooth", block: "start" });
+    });
   }
 
   closeNavBar(shadowRoot){
