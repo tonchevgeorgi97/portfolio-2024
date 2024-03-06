@@ -1,4 +1,3 @@
-const url = "http://localhost:5500";
 const navbarTemplate = document.createElement('template');
 
 class Navbar extends HTMLElement {
@@ -41,18 +40,8 @@ class Navbar extends HTMLElement {
   }
 
   async downloadNavbarHtml(){
-    const response = await fetch(this.urlJoin(url, this.src));
+    const response = await fetch(this.src);
     this.html = await response.text();
-  }
-
-  urlJoin(...args){
-    return args.join('/')
-      .replace(/[\/]+/g, '/')
-      .replace(/^(.+):\//, '$1://')
-      .replace(/^file:/, 'file:/')
-      .replace(/\/(\?|&|#[^!])/g, '$1')
-      .replace(/\?/g, '&')
-      .replace('&', '?');
   }
 }
 
