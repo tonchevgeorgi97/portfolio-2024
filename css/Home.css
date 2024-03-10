@@ -439,6 +439,12 @@
   position: relative;
 }
 
+.button-case-study:hover{
+  opacity: 0.85;
+}
+
+
+
 .desktop-portfolio-gt .label-button {
   letter-spacing: 0.28px;
   line-height: 24.0px;
@@ -447,6 +453,7 @@
   white-space: nowrap;
   width: fit-content;
 }
+
 
 .desktop-portfolio-gt .cover {
   height: 400px;
@@ -592,6 +599,10 @@
   text-fill-color: transparent;
   white-space: nowrap;
   width: fit-content;
+}
+
+.label-button-1:hover {
+opacity: 0.85;
 }
 
 .desktop-portfolio-gt .divider-dark-yes {
